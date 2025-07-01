@@ -9,7 +9,7 @@ If you want access a commercial version of the Arbitrage BOT, please send me an 
 ![Logo](https://alexandrebarros.com/global/flash-alfred/FlashAlfred-Git-Hero.png?alt=flash-alfred-intro)
 
 # Full Documentation
-Diagrams and Use Cases can be found in this folder https://github.com/AleRapchan/flash-swap-arbitrage-bot/tree/main/documentation but please access the full documentation for this project, including the video presentation, following this link: [Full Documentation](https://rapchan.gitbook.io/flash-bot/) 👈
+Diagrams and Use Cases can be found in this folder https://github.com/osmanx8/flash-swap-arbitrage-bot/tree/main/documentation but please access the full documentation for this project, including the video presentation, following this link: [Full Documentation](https://rapchan.gitbook.io/flash-bot/) 👈
 
 # Disclaimer
 This presentation is not either an investment advice or a recommendation or solicitation to buy or sell any investment and should not be used in the evaluation of the merits of making any investment decision. It should not be relied upon for accounting, legal or tax advice or investment recommendations. The contents reflected herein are subject to change without being updated. The codes are written for informational and educational purpose only.
